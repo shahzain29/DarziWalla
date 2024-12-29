@@ -1,0 +1,85 @@
+{
+ 
+    "Login": {
+        "header1": "Welcome To",
+        "header2": "DARZI CUSTOMER",
+        "subHeader": "Please enter your mobile number to continue",
+        "passwordPlaceholder": "Password",
+        "loginButton": "Login",
+        "registerButton": "Register",
+        "forgotPasswordButton": "Forgot Password",
+    
+        "footer1": "Contact Support",
+        "footer2": "Terms & Conditions | Privacy Policy"
+      },
+
+      "CheckUser":{
+
+        "title":"Check User",
+        "checkBtn":"Check"
+      },
+
+      "SetPassword":{
+            "title":"Set Password",
+            "setBtn" : "Set"
+      },
+
+      "VerificationScreen": {
+        "header": "Please type verification code sent on your mobile number",
+        "verifyButton": "Verify",
+    
+        "footer1": "Contact Support",
+        "footer2": "Terms & Conditions | Privacy Policy"
+      },
+
+      "Registration": {
+        "header1": "Sign Up",
+        "namePlaceholder": "Name",
+        "cityPlaceholder":"City",
+        "passwordPlaceholder": "Password",
+        "cPassPlaceholder": "Confirm Password",
+        "signUpButton": "Sign Up",
+    
+        "footer1": "Contact Support",
+        "footer2": "Terms & Conditions | Privacy Policy"
+      },
+
+
+      "ForgotPassword1": {
+        "title": "Reset Password",
+        "proceedButton": "Proceed"
+      },
+    
+      "ForgotPassword2": {
+        "title": "Reset Password",
+        "passwordPlaceholder": "Password",
+        "changeButton": "Change Password"
+      },
+
+      "Home": {
+        "title": "DARZI CUSTOMER",
+        "header1" : "Your Orders"
+      
+    
+      },
+
+      "DrawerTexts" : {
+        "home":"Home",
+        "profile" : "Profile",
+        "notifications" : "Notifications",
+        "logout" : "Logout",
+        "rateUs" : "Rate Us",
+        "urdu": "urdu"
+      },
+
+      "Profile": {
+        "title": "My Profile",
+        "editBtn": "Edit Profile"
+      },
+
+      "Notifications": {
+        "title": "Notifications"
+      }
+
+    
+}

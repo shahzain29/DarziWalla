@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1091974615909",
+    "project_id": "darzi-walla",
+    "storage_bucket": "darzi-walla.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091974615909:android:2128ff7be7f002e555078c",
+        "android_client_info": {
+          "package_name": "com.appcrates.DarziCustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091974615909-9ui2v9f6ti6n4sbbksmmt5hontr6u7jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYwheECdG98klg5RSuR64_90cSC8ZvKgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091974615909-9ui2v9f6ti6n4sbbksmmt5hontr6u7jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091974615909:android:a030bcae9af8e32f55078c",
+        "android_client_info": {
+          "package_name": "com.appcrates.darziwalla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091974615909-9ui2v9f6ti6n4sbbksmmt5hontr6u7jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYwheECdG98klg5RSuR64_90cSC8ZvKgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091974615909-9ui2v9f6ti6n4sbbksmmt5hontr6u7jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

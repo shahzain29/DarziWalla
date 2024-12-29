@@ -1,0 +1,81 @@
+
+{
+"Login": {
+    "header1": "خوش آمدید",
+    "header2": "درزی گاہک",
+    "subHeader": "برائے کرم اپنا موبائیل نمبر کا اندراج کیجئے",
+    "passwordPlaceholder": "خفیہ کوڈ کا انداج کیجئے",
+    "loginButton": "لاگ اِن ",
+    "registerButton": "نیا درزی بنیئے",
+    "forgotPasswordButton": "خفیہ کوڈ بھول گئے",
+
+    "footer1": "سپورٹ سے رابطہ کیجئے",
+    "footer2": " شرائط و ضوابط | رازداری کی پالیسی"
+  },
+
+  "CheckUser":{
+
+    "title":"صارف کو چیک کریں",
+    "checkBtn":"چیک کریں"
+  },
+
+  "VerificationScreen": {
+    "header": " براہ کرم اپنے موبائل نمبر پر بھیجا گیا تصدیقی کوڈ ٹائپ کریں۔",
+    "verifyButton": "تصدیق کریں۔",
+
+    "footer1": "سپورٹ سے رابطہ کیجئے",
+    "footer2": " شرائط و ضوابط | رازداری کی پالیسی"
+  },
+  "Registration": { 
+    "header1": "بنئیے",
+    "header2": "درزی",
+    "namePlaceholder": "نام",
+    "shopDetailsPlaceholder": "دُکان کی تفصیلات",
+    "passwordPlaceholder": "خفیہ کوڈ",
+    "cPassPlaceholder": "دوبارہ تصدیق کیجئے خفیہ کوڈ",
+    "setAddressButton": "دُکان کا ایڈریس محفوظ کیجئے",
+    "signUpButton": "سائن اپ",
+
+    "footer1": "سپورٹ سے رابطہ کیجئے",
+    "footer2": " شرائط و ضوابط | رازداری کی پالیسی"
+  },
+
+  "ForgotPassword1": {
+    "title": "پاسورڈ دوبارہ بنائیں ",
+    "proceedButton": "آگے بڑھیے"
+  },
+
+  "ForgotPassword2": {
+    "title": " پاسورڈ دوبارہ بنائیں",
+    "passwordPlaceholder": "خفیہ کوڈ",
+    "changeButton": "پاسورڈ تبدیل کیجئے"
+  },
+
+  "Home": {
+    "title": "درزی گاہک",
+    "header1" : "آپ کے آرڈر"
+  
+  },
+  "DrawerTexts" : {
+    "home":"ہوم",
+    "profile" : "پروفائل",
+    "notifications" : "اطلاعات",
+    "logout" : "لاگ آوٹ",
+    "rateUs" : "ہمیں درجہ دیں",
+    "urdu" :"اردو"
+  },
+
+  "Profile": {
+    "title": "میری پروفائل",
+    "addBtn": "نئی اشیاء منتخب کیجئے",
+    "manageBtn": "قیمتوں کو منظم کیجئے",
+    "editBtn": "پروفائل تبدیل کیجئے"
+  },
+
+  "Notifications": {
+    "title": "اطلاعات"
+  }
+
+
+
+}
